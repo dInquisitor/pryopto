@@ -1,0 +1,20 @@
+
+.overlay{
+    background:rgba(0, 0, 0, 0.9);
+}
+
+.team-section {
+    background: #dfdede;
+}
+
+.team-section img {
+    border-radius: 50%;
+}
+
+.testimonial-section{
+    background: #6d5336;
+    color: #fff
+}
+
+
+/* * {border: 1px solid red!important} */
